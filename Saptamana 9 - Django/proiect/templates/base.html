@@ -1,0 +1,33 @@
+<html>
+<head>
+    {% block title %}
+    {% endblock %}
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <nav>
+                <a class="btn" href="/admin">Admin</a>
+                {% if request.user.is_authenticated %}
+                    <span>Hi, {{ request.user.username|upper }}</span>
+                    <a class="btn" href="{% url 'locations:lista_locatii' %}">Locatii</a>
+                    <a class="btn btn-primary" href="{% url 'logout' %}">Logout</a>
+                    {% if ready_to_work is False %}
+                        <a href="{% url 'locations:oprire_pontaj' %}" class="btn btn-danger">Oprire pontaj</a>
+                    {% else %}
+                        <a href="{% url 'locations:start_pontaj' %}" class="btn btn-success">Pornire pontaj</a>
+                    {% endif %}
+                {% endif %}
+            </nav>
+        </div>
+    </div>
+</div>
+{% block content %}
+{% endblock %}
+</body>
+<footer>
+    <div class="container"><p class="copyright pull-right"> &copy; {% now 'Y' %}SIIT</p></div>
+</footer>
+</html>

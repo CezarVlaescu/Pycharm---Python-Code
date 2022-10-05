@@ -1,0 +1,1 @@
+elemente = ['Hartie', 'Foarfece', 'Piatra']
