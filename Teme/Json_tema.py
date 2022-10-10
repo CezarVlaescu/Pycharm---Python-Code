@@ -43,13 +43,29 @@ dataset = [
     ('UK', ['83 ', '87 ', '88 ', '90 ', '91 ', '93 ', '94 ', '95 ', '96 ']),
     ('XK', [': ', ': ', ': ', ': ', ': ', ': ', '89 ', '93 ', '93 ']),
 ]
+#
+# values = json.loads(dataset)
+# header = json.loads(description)
 
-values = json.loads(dataset)
-header = json.loads(description)
+# tabel= pd.DataFrame(data= dataset)
+# print(tabel)
 
-tabel= pd.DataFrame(data= dataset, header= description)
-print(tabel)
+countries = [i[0] for i in dataset]
+clean_dataset = [i[1] for i in dataset]
 
+description = list(description)
+years = description[1]
+
+
+dataset.insert(0, years)
+print(dataset)
+
+pandas_table = pd.DataFrame(data = dataset, columns=years)
+pandas_table.drop(0, inplace=True)
+print(pandas_table)
+
+#
+# df.to_excel("Coutries.xls", header=description)
 
 
 

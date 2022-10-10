@@ -1,23 +1,30 @@
-#Numere intregi : 1, 3, 5, -5 int
-#Numere rationale : 3.2, 0.1, -0.4e float
-#Numere complexe : 3j, 5j+1 complex
+# 1. Scrie un program care sa calculeze suma dintre trei numere. Daca valorilesunt egale, returnati de trei ori suma acestora.
+
+# def get_sum(a,b,c):
+#     if a != b != c:
+#       return a+b+c
+#     elif a == b == c:
+#         return (a+b+c)*3
+#
+#
+# print(get_sum(3,3,3))
+
+# 2. Scrie un program care sa elimine si sa printeze numerele din 3 in 3 pana cand lista devine goala. (1 punct)
 
 
-#my_list = [1,3,4,8,5,6,14]
-#my_sliced_list = my_list[-3:]
-#print(my_sliced_list)
+# Lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+# for i in Lista:
+#     if i % 3 == 0 :
+#         print(i)
 
-# a = 2
-# b = 2
-# if a == b:
-#     print(True)
-# else:
-#     print(False)
+# Scrie un program care sa afiseze toate combinarile de 2 litere dintre valorile dictionarului de mai jos:
 
-
+dictionar = {'1': 'abc','2' :'s','3':'o','4':'n','5':'lm','6':'jk','7':'gi','8':'def','9': 'abc'}
+a = dictionar.values()
+print(a)
 
 
-# n = 2.3512531
-# print(int(n))
-# print(type(n))
+
+
+
 

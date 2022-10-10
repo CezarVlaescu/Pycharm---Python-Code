@@ -33,6 +33,24 @@ def oras(cnp):
         return orase_numere[cnp[7:9]]
 print(oras(cnp))
 
+
+def cifra_control(cnp):
+    const = '279146358279'
+    cod_auto = 0
+
+    for i, v in enumerate(const):
+        cod_auto += int(v) * int(cnp[i])
+
+    if cod_auto % 11 == 10 and int(cnp[12]) != 1:
+        return False
+    elif cod_auto % 11 != int(cnp[12]):
+        return False
+    else:
+        return True
+
+print(cifra_control(cnp))
+
+
 def validare(cnp):
     if len(cnp) == 13 and cnp.isdigit() is True:
         return "CNP Valid"
