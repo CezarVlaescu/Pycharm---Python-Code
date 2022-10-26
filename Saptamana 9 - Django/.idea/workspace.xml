@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6712da76-6390-4daa-931f-60f5379364a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Chemestry App/Chemestry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_blog-1/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_blog-1/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_blog-1/templates/registration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../From 0 to hero/Al 3-lea numar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../From 0 to hero/Clase si obiecte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../From 0 to hero/Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../From 0 to hero/Problema1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/Blog/App/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/Blog/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/Blog/templetes/App/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/Blog/templetes/App/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/Blog/templetes/App/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/Blog/templetes/App/post_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/Blog/templetes/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Saptamana 9 - Django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saptamana 9 Django Project/proiect/.idea/proiect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../To-do.app/.idea/To-do.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebScraping/Learning 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Saptamana 1/Variabile.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Saptamana 1/Variabile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Saptamana 10 - Desktop Apps/cod_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Saptamana 10 - Desktop Apps/cod_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../To-do.app/todo/do/templates/app/delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/../To-do.app/todo/do/templates/app/delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../To-do.app/todo/do/templates/app/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../To-do.app/todo/do/templates/app/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../To-do.app/todo/do/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../To-do.app/todo/do/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScraping/Learning1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../WebScraping/Learning1.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G2f0GQdTpk6CfGUo5hckak5J6j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Python/Saptamana 9 - Django"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6712da76-6390-4daa-931f-60f5379364a8" name="Changes" comment="" />
+      <created>1665591375039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665591375039</updated>
+    </task>
+    <servers />
+  </component>
+</project>
