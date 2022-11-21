@@ -12,6 +12,9 @@ def blogs(request):
     posts = BlogPost.objects.filter().order_by('-dateTime')
     return render(request, "blog.html", {'posts': posts})
 
+def about(request):
+    return render(request, "about.html")
+
 def blogs_comments(request, slug):
     post = BlogPost.objects.filter(slug=slug).first()
     comments = Comment.objects.filter(blog=post)

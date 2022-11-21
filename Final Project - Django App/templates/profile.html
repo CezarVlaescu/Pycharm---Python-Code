@@ -85,40 +85,12 @@ background: #212529b8;
                             </div>
                         </div>
                         {% endif %}
-                        {% if user.profile.linkedin %}
-                        <div class="row">
-                            <div class="col-md-6">
-                                <label>Linkedin:</label>
-                            </div>
-                            <div class="col-md-6">
-                                <p><a href="{{user.profile.linkedin}}">{{user.profile.linkedin}}</a></p>
-                            </div>
-                        </div>
-                        {% endif %}
-                        {% if user.profile.instagram %}
-                        <div class="row">
-                            <div class="col-md-6">
-                                <label>Instagram:</label>
-                            </div>
-                            <div class="col-md-6">
-                                <p><a href="{{user.profile.instagram}}">{{user.profile.instagram}}</a></p>
-                            </div>
-                        </div>
-                        {% endif %}
-                        {% if user.profile.facebook %}
-                        <div class="row">
-                            <div class="col-md-6">
-                                <label>Facebook:</label>
-                            </div>
-                            <div class="col-md-6">
-                                <p><a href="{{user.profile.facebook}}">{{user.profile.facebook}}</a></p>
-                            </div>
-                        </div>
-                        {% endif %}
                     </div>
                     <a href="/edit_profile/" class="btn btn-secondary">Edit Profile</a>
                 </div>
             </div>
 </div>
 </div>
+
 {% endblock %}
+
