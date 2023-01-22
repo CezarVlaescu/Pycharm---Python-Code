@@ -3,7 +3,7 @@ import pyperclip
 import random
 
 root = Tk()
-root.geometry('700x700')
+root.geometry('700x300')
 root.resizable(False, False)
 root.title('Password generator')
 passwordword = StringVar()
@@ -30,7 +30,7 @@ def pass_clip():
 
 Label(root, text="Password Generator", font="Courier 30 bold").pack()
 Label(root, text="By Caesar", font="Courier 20 italic").pack()
-Label(root, text="Enter the number to get password").pack(pady=3)
+Label(root, text="Enter the number to get a password").pack(pady=3)
 Entry(root, textvariable=passwordlen).pack(pady=3)
 Button(root, text="Generate", command=pass_gen).pack(pady=7)
 Entry(root, textvariable=passwordword).pack(pady=3)
