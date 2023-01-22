@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9cce0c29-8023-42ba-9d33-83e023b603db" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Password Generator App/App.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password Generator App/App.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
