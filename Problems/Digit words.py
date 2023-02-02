@@ -1,0 +1,12 @@
+def digit_check(word, digit):
+    w = list(word)
+    d = list(digit)
+    for i in range(0, len(word)):
+        if d[i] in w:
+            dicts = {"ONE": 1, "TWO": 2, "THREE": 3, "FOUR": 4, "FIVE": 5, "SIX": 6, "SEVEN": 7, "EIGHT": 8, "NINE": 9}
+            for j in dicts.keys():
+                if j == digit:
+                    return dicts[digit]
+
+
+print(digit_check())
