@@ -23,7 +23,7 @@ for item in zip(list_1, list_2):
     lista.append(item)
     print(lista)
 
-from random import randint
-
-number = randint(0,100)
-print('Your number is {}'.format(number))
+# from random import randint
+#
+# number = randint(0,100)
+# print('Your number is {}'.format(number))

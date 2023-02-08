@@ -2,43 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cce0c29-8023-42ba-9d33-83e023b603db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Isty/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Isty/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chemestry App - Django App/Chem/static/18_column_periodic_table,_with_Lu_and_Lr_in_group_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chemestry App - Django App/Chem/templetes/image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mysite - DjangoProject/Mysite/App/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mysite - DjangoProject/Mysite/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Biscuit problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Calculate the factors of an integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Convertor from Kilometers in Miles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Digit words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Mayan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Paranteze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Password validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Termometer calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/Concatenation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/Data types and math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/Dicts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/Else and IF.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/For loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/List comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/Strings and slices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/Test 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/Test 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/Zip si alti operatori.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/while loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Anagrams check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Longest prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Returning the array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Roman to Integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Search for char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Secret Mesagge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/sorted array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solo Learning/Map, Lambda and Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solo Learning/Prob Frunctions 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solo Learning/Prob Functions 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Chem/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Chem/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Sty/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Isty/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Sty/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Isty/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Sty/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Isty/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Sty/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Isty/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Sty/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Isty/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Sty/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Isty/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Sty/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chemestry App - Django App/Chem/Isty/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Biscuit problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Biscuit problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solo Learning/For loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solo Learning/For loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solo Learning/Zip si alti operatori.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solo Learning/Zip si alti operatori.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +58,8 @@
       <recent name="C:\Python\Solo Learning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Termometer calculator">
-    <configuration name="Calculate the factors of an integer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Secret Mesagge">
+    <configuration name="Anagrams check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Calculate the factors of an integer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Anagrams check.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +80,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Convertor from Kilometers in Miles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Map, Lambda and Filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Solo Learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Solo Learning/Map, Lambda and Filter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Search for char" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Convertor from Kilometers in Miles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Search for char.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Termometer calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Secret Mesagge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Termometer calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Secret Mesagge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sorted array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,28 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mysite - DjangoProject/Mysite/App" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mysite - DjangoProject/Mysite/App/views.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/sorted array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Termometer calculator" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.Convertor from Kilometers in Miles" />
-        <item itemvalue="Python.Calculate the factors of an integer" />
-        <item itemvalue="Python.views" />
+        <item itemvalue="Python.Secret Mesagge" />
+        <item itemvalue="Python.sorted array" />
+        <item itemvalue="Python.Map, Lambda and Filter" />
+        <item itemvalue="Python.Anagrams check" />
+        <item itemvalue="Python.Search for char" />
       </list>
     </recent_temporary>
   </component>
