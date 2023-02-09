@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cce0c29-8023-42ba-9d33-83e023b603db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Problems/Anagrams check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Longest prefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Returning the array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Roman to Integer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Search for char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Secret Mesagge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/sorted array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/Map, Lambda and Filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/Prob Frunctions 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/Prob Functions 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bets App/App.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bets App/Flask version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bets App/Football_(soccer_ball).svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solo Learning/Prob Functions 3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Biscuit problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Biscuit problem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solo Learning/For loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solo Learning/For loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solo Learning/Zip si alti operatori.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solo Learning/Zip si alti operatori.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solo Learning/Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solo Learning/Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solo Learning/Prob Frunctions 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solo Learning/Prob Functions 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,15 +44,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python\Bets App" />
+      <recent name="C:\Python\Password Generator App" />
       <recent name="C:\Python\Mysite - DjangoProject\Mysite" />
       <recent name="C:\Python\MySite\Site\My" />
       <recent name="C:\Python\Chemestry App - Django App\Chem\static" />
-      <recent name="C:\Python" />
-      <recent name="C:\Python\Solo Learning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Secret Mesagge">
-    <configuration name="Anagrams check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Prob Functions 3">
+    <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bets App" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Anagrams check.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bets App/App.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Map, Lambda and Filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Solo Learning/Map, Lambda and Filter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Solo Learning/Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Search for char" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Prob Functions 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Solo Learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Search for char.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Solo Learning/Prob Functions 3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Prob Functions 3" />
+        <item itemvalue="Python.Functions" />
+        <item itemvalue="Python.App" />
         <item itemvalue="Python.Secret Mesagge" />
         <item itemvalue="Python.sorted array" />
-        <item itemvalue="Python.Map, Lambda and Filter" />
-        <item itemvalue="Python.Anagrams check" />
-        <item itemvalue="Python.Search for char" />
       </list>
     </recent_temporary>
   </component>

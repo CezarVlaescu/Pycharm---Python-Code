@@ -35,5 +35,10 @@ def my_funct(**kwargs): # kwargs return a dictionary
     else:
         return 'I did not find any fruit here'
 
-print(my_funct(fruit = 'apple', veggie = 'onion'))
+print(my_funct(fruit='apple', veggie='onion'))
+
+def function(*args, **kwargs):
+    return "My favorite food is {} {}".format(args[0], kwargs['food'])
+
+print(function(10, 20, 30, food='Burger', fruit='Bananas'))
 
