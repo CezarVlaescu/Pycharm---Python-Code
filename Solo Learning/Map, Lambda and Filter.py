@@ -1,10 +1,10 @@
 # 1. Map - return the instance of a function based by a list
-# def funct(num):
-#     return num**3
-#
-# my_list = [1, 3, 5, 7]
-# for item in map(funct, my_list):
-#     print(item)
+def funct(num):
+    return num**3
+
+my_list = [1, 3, 5, 7]
+for item in map(funct, my_list):
+    print(item)
 
 # char = '#'
 # # empty_list = []
@@ -40,8 +40,8 @@
 # print(square(3))
 
 # 4. Exemples with anonime functions combined
-
-my_list = [2, 3, 4, 5, 6, 7]
-print(list(map(lambda num: num % 2, my_list)))
+#
+# my_list = [2, 3, 4, 5, 6, 7]
+# print(list(map(lambda num: num % 2, my_list)))
 
 
