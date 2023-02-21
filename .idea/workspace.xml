@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cce0c29-8023-42ba-9d33-83e023b603db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Isomorphic Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Merged List v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Merged list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Pivot Index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Reversed List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode Problems/Sum of 1d Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/OOP 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/OOP 3 Magic Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/OOP Challange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/OOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solo Learning/Prob OOP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fortech/Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New Libraries Working/Chempy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +35,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Python&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -57,8 +48,8 @@
       <recent name="C:\Python\Chemestry App - Django App\Chem\static" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Merged List v2">
-    <configuration name="Isomorphic Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Solution">
+    <configuration name="Chempy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/New Libraries Working" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode Problems/Isomorphic Strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/New Libraries Working/Chempy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Merged list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fortech" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode Problems/Merged list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fortech/Solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Solution" />
+        <item itemvalue="Python.Chempy" />
         <item itemvalue="Python.Merged List v2" />
         <item itemvalue="Python.Merged list v2" />
         <item itemvalue="Python.Map, Lambda and Filter" />
-        <item itemvalue="Python.Merged list" />
-        <item itemvalue="Python.Isomorphic Strings" />
       </list>
     </recent_temporary>
   </component>
