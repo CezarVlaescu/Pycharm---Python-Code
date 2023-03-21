@@ -15,10 +15,10 @@ def index(request):
         return redirect('/')
 
 
-    dict = {'tasks': tasks, 'form': form}
-    return render(request, 'app/list.html', dict)
+    context = {'tasks': tasks, 'form': form}
+    return render(request, 'app/list.html', context)
 
-def Update(request, pk):
+def update(request, pk):
     task = Task.objects.get(id=pk)
     form = TaskForm(instance=task)
     if request.method == 'POST':
@@ -36,8 +36,8 @@ def delete(request, pk):
         item.delete()
         return redirect('/')
 
-    dict = {'item': item}
-    return render(request, 'app/delete.html', dict)
+    context = {'item': item}
+    return render(request, 'app/delete.html', context)
 
 
 
