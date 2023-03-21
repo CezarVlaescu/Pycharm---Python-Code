@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9cce0c29-8023-42ba-9d33-83e023b603db" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String Convertor Project/Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/String Convertor Project/Solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final Project - Django App/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Final Project - Django App/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game Project/Gameplay Elements/Game objects/images.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game Project/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game Project/Main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +42,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python\Game Project" />
+      <recent name="C:\Python\Game Project\Gameplay Elements\Meniu" />
+      <recent name="C:\Python\Game Project\Gameplay Elements\Game objects" />
       <recent name="C:\Python\Bets App" />
       <recent name="C:\Python\Password Generator App" />
-      <recent name="C:\Python\Mysite - DjangoProject\Mysite" />
-      <recent name="C:\Python\MySite\Site\My" />
-      <recent name="C:\Python\Chemestry App - Django App\Chem\static" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Solution (1)">
+  <component name="RunManager" selected="Python.Project">
     <configuration name="Chempy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Merged List v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Game Project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode Problems/Merged List v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Game Project/Main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Merged list v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Emag Checker" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode Problems/Merged list v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Emag Checker/Project.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Project" />
+        <item itemvalue="Python.Main" />
         <item itemvalue="Python.Solution (1)" />
         <item itemvalue="Python.Solution" />
         <item itemvalue="Python.Chempy" />
-        <item itemvalue="Python.Merged List v2" />
-        <item itemvalue="Python.Merged list v2" />
       </list>
     </recent_temporary>
   </component>
